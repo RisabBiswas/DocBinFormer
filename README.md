@@ -6,12 +6,13 @@ We present DocBinFormer, a novel two-level vision transformer (TL-ViT) architect
 
 ![alt text](DocBinFormer.png?raw=true)
 
+## Results 
 <p align="center">
-  <img src="assets/Results_1.png" /> 
+  <img src="assets/Results_1.png" width="74%"/> 
 <!--   <img src="/assets/GIF_1_IM_3_01_3_26.gif" width="220" /> -->
 </p>
 
 <p align="center">
-  <img src="assets/Results_1.png" /> 
+  <img src="assets/Results_1.png" width="74%"/> 
 </p>
 
